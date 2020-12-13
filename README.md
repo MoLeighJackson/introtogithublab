@@ -1,3 +1,5 @@
 # introtogithublab
-Qwiklabs exercise
-Practice using remote GitHub repository, practice making commits
+# Qwiklabs exercise for coursera intro to git and github course
+# practice using remote GitHub repository
+# practice editing
+# practice making commits
